@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aqi-redirect.onrender.com/sitemap.xml
