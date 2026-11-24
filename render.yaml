@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: aqinode-hq-redirect
+    buildCommand: "true"
+    staticPublishPath: .
